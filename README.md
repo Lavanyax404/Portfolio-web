@@ -3,6 +3,10 @@ This is a modern, animated 3D developer portfolio designed to help you make a st
 
 ---
 
+![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
+
+---
+
 # ✨ Core Features
 🔥 Immersive 3D Graphics: Built using React Three Fiber and Drei for high-performance 3D rendering directly within React.
 
